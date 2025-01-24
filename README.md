@@ -2,6 +2,8 @@
 
 ### Co-Founder & Software Engineer @ [Novaloop AG](https://novaloop.ch)
 
+![alt text](https://files.novaloop.ch/images/novaloop/banner-ruby.png "Novaloop AG")
+
 ### Work Experience
 
 #### Novaloop AG (2020 - present)
