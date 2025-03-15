@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Markus Huggler</h1>
+<h1 align="center">Hi 👋, I'm Markus</h1>
 <h3 align="center">Co-Founder, Software Engineer & Solution Architect @ Novaloop AG</h3>
 
 ![alt text](https://files.novaloop.ch/images/novaloop/banner-ruby.png "Novaloop AG")
